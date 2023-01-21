@@ -1,0 +1,13 @@
+"LED Boards" :
+
+16x138 board: total 2208 LEDs
+2.4m x 30cm board that uses Opto8211 with Teensy 3.2.
+Todo : Vitrual led array to link LED_TEXT lib with OPTO8211 lib.
+/*  ------------------------------------------------  */
+8x32S_R3 is code for two low res led boards, total 256 leds p/u.
+one MCU handles 2x LEd boards.
+ToDo : Memory leak on some patterns?
+/*  ------------------------------------------------  */
+14x60 board: total 840 leds
+2560 per board, approx 1.2m x 30cm.
+ToDo: Set up for online debug via teamviewer + webcam.
